@@ -5,15 +5,10 @@ Este projeto tem como objetivo desenvolver uma ferramenta no **Excel** para orga
 
 ## Funcionalidades
 - **Menus de Navegação** para facilitar o acesso às informações
-- **Validações Automáticas** para garantir dados precisos
-- **Links Rápidos** para acessar informações e recursos externos
 - **Interface Amigável e Prática**, projetada para ser intuitiva
-- **Gerenciamento de Dados** otimizado para maior controle e precisão
 
 ## Tecnologias Utilizadas
 - **Microsoft Excel** como plataforma principal
-- **Macros e VBA** para automação de processos
-- **Tabelas Dinâmicas** para melhor visualização e análise de dados
 
 ## Como Utilizar
 1. **Baixe o arquivo Excel** contendo a ferramenta.
